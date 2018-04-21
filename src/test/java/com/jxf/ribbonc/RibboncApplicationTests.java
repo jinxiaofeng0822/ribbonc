@@ -1,4 +1,4 @@
-package com.tsy.ribbonc;
+package com.jxf.ribbonc;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

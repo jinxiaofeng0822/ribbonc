@@ -1,4 +1,4 @@
-package com.tsy.ribbonc;
+package com.jxf.ribbonc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
